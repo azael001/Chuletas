@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Examen_Pgv_Azael:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Examen_Pgv_Azael_jar</output-path>
+    <root id="archive" name="Examen_Pgv_Azael.jar">
+      <element id="module-output" name="Examen_Pgv_Azael" />
+    </root>
+  </artifact>
+</component>
