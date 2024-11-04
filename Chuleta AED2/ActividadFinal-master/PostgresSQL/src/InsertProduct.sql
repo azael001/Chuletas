@@ -1,0 +1,7 @@
+PR001,Producto Uno,100.50,25,P001
+PR002,Producto Dos,150.75,30,P002
+PR003,Producto Tres,200.00,15,P003
+PR004,Producto Cuatro,80.25,40,P004
+PR005,Producto Cinco,120.00,35,P005
+PR006,Producto Seis,180.50,20,P006
+PR007,Producto Siete,95.75,50,P007
